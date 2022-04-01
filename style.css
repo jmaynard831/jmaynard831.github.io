@@ -1,6 +1,31 @@
 h1{
+    color: 107, 113, 126;
+    font-size: 30pt; 
+}
 
-    color: red;
-    font-size: 30pt;
-    
+.header{
+    text-align: center;
+    padding-top: 0pt;
+    margin-top: 0pt;
+    overflow: hidden;
+    color: #161925;
+}
+
+body{
+    background-color: #A9EAA9;
+}
+
+a:link{
+    text-decoration: none;
+    color:#161925
+}
+
+a{
+    color:#161925;
+    font-weight: bold;
+}
+#text-body{
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-top: 3em;
 }
