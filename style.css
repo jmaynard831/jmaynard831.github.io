@@ -29,3 +29,16 @@ a{
     padding-right: 10em;
     padding-top: 3em;
 }
+img {
+      width: 300px;       
+      height: 300px;
+      object-fit: cover;  
+      cursor: pointer;
+      border: 2px solid #444;
+    }
+
+figcaption {
+      margin-top: 8px;
+      font-size: 1.2em;
+      color: #333;
+    }
